@@ -1,1 +1,2 @@
-[![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgprodigal&show_icons=true&bg_color=90,fff,fff,def4fe)](https://github.com/anuraghazra/github-readme-stats)
+| [![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgprodigal&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
