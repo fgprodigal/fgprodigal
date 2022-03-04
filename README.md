@@ -40,6 +40,7 @@
 <p>
   <a href="https://github.com/fgprodigal" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-12100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/fgprodigal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://blog.rayw.tech" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/My%20Blog-430098.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a>
 </p>
 
 <h3>Github统计</h3>
