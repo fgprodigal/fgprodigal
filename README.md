@@ -44,6 +44,6 @@
 
 <h3>Github统计</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fgprodigal&theme=vue"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fgprodigal&theme=vue&border_radius=0"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue&border_radius=0"/>
 </p>
